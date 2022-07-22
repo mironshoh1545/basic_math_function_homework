@@ -4,4 +4,3 @@
 
 def main (a):
     return abs(a)
-    
